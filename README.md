@@ -1,4 +1,4 @@
-# Admin ChatBot Php Telegram Bot
+# ChatBot Php Telegram Bot
 
 ## How To Setup:<br>
 1> Set your bot token in the line 3.<br>
